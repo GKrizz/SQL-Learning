@@ -1,0 +1,5 @@
+-- select sum(mark) as total_marks from student;
+-- select max(mark) as max_mark from student;
+-- select min(mark) as min_mark from student;
+-- select avg(mark) as Avg_mark from student;
+-- select count(*) as Count from student where department='csbs';
