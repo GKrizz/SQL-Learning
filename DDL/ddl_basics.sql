@@ -1,0 +1,6 @@
+-- use dummy;
+-- create table student(name varchar(100), department varchar(100), mark_scored int);
+-- alter table student add Roll_num int;
+-- alter table student change department dept varchar(100);
+-- drop table student;
+-- truncate table student;
